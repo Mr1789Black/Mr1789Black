@@ -1,0 +1,18 @@
+{
+  "name": "project2",
+  "version": "1.0.0",
+  "description": "online exam system",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    
+  },
+  "scripts": {
+    "serve:local" : "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
